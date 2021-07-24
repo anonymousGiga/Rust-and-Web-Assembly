@@ -1,0 +1,9 @@
+/home/andy/source/rust/rust_course/Rust-and-Web-Assembly/wasm-game-of-life-20210718/target/wasm32-unknown-unknown/debug/deps/wasm_bindgen_futures-59a559fe20d046a5.rmeta: /home/andy/.cargo/registry/src/crates.rustcc.cn-46a557d00542c05f/wasm-bindgen-futures-0.4.24/src/lib.rs /home/andy/.cargo/registry/src/crates.rustcc.cn-46a557d00542c05f/wasm-bindgen-futures-0.4.24/src/queue.rs /home/andy/.cargo/registry/src/crates.rustcc.cn-46a557d00542c05f/wasm-bindgen-futures-0.4.24/src/task/singlethread.rs
+
+/home/andy/source/rust/rust_course/Rust-and-Web-Assembly/wasm-game-of-life-20210718/target/wasm32-unknown-unknown/debug/deps/libwasm_bindgen_futures-59a559fe20d046a5.rlib: /home/andy/.cargo/registry/src/crates.rustcc.cn-46a557d00542c05f/wasm-bindgen-futures-0.4.24/src/lib.rs /home/andy/.cargo/registry/src/crates.rustcc.cn-46a557d00542c05f/wasm-bindgen-futures-0.4.24/src/queue.rs /home/andy/.cargo/registry/src/crates.rustcc.cn-46a557d00542c05f/wasm-bindgen-futures-0.4.24/src/task/singlethread.rs
+
+/home/andy/source/rust/rust_course/Rust-and-Web-Assembly/wasm-game-of-life-20210718/target/wasm32-unknown-unknown/debug/deps/wasm_bindgen_futures-59a559fe20d046a5.d: /home/andy/.cargo/registry/src/crates.rustcc.cn-46a557d00542c05f/wasm-bindgen-futures-0.4.24/src/lib.rs /home/andy/.cargo/registry/src/crates.rustcc.cn-46a557d00542c05f/wasm-bindgen-futures-0.4.24/src/queue.rs /home/andy/.cargo/registry/src/crates.rustcc.cn-46a557d00542c05f/wasm-bindgen-futures-0.4.24/src/task/singlethread.rs
+
+/home/andy/.cargo/registry/src/crates.rustcc.cn-46a557d00542c05f/wasm-bindgen-futures-0.4.24/src/lib.rs:
+/home/andy/.cargo/registry/src/crates.rustcc.cn-46a557d00542c05f/wasm-bindgen-futures-0.4.24/src/queue.rs:
+/home/andy/.cargo/registry/src/crates.rustcc.cn-46a557d00542c05f/wasm-bindgen-futures-0.4.24/src/task/singlethread.rs:
